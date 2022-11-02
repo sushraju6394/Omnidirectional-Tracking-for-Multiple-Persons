@@ -8,7 +8,7 @@ Yolo object detection is inspired from [https://github.com/thtrieu/darkflow]. Th
 git clone https://github.com/thtrieu/darkflow
 ```
 ## Dependencies
-Python3, tensorflow 1.0, numpy, opencv 3
+Python3, tensorflow 1.0, numpy, opencv 3, [https://pjreddie.com/darknet/install/]
 ## Installation
 ```
 $ pip3 install python3
